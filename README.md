@@ -1,4 +1,4 @@
-# kotlin_spring_vue_mongo_crud
+# kotlin-spring-vue-mongo-crud
 
 How to run the application in your local system?
 
